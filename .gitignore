@@ -1,0 +1,5 @@
+.vagrant/
+*.log
+private_key
+application.properties
+automated-provisioning/application.properties
