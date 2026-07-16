@@ -4,9 +4,6 @@ A 5-tier Java web application stack (Nginx, Tomcat, MySQL, Memcache, RabbitMQ) d
 
 ## Architecture
 
-![Architecture Diagram](docs/architecture-diagram.png)
-*Diagram from the vprofile-project course reference material.*
-
 ```
 User → Nginx (reverse proxy, port 80)
          → Tomcat (app server, port 8080)
